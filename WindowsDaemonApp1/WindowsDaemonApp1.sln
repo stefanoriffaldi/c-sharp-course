@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsDaemonApp1", "WindowsDaemonApp1.csproj", "{8236F921-01DB-4F5E-90BD-15CBC34F129F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8236F921-01DB-4F5E-90BD-15CBC34F129F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8236F921-01DB-4F5E-90BD-15CBC34F129F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8236F921-01DB-4F5E-90BD-15CBC34F129F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8236F921-01DB-4F5E-90BD-15CBC34F129F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B195A82F-0886-450F-8A79-FB01CD30BE3A}
+	EndGlobalSection
+EndGlobal
